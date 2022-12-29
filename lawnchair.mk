@@ -7,4 +7,5 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     LawnchairPrebuilt \
-    QuickstepSwitcherOverlay
+    QuickstepSwitcherOverlay \
+    Remover
