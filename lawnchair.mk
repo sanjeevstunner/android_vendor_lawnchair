@@ -6,5 +6,5 @@ PRODUCT_COPY_FILES += \
     vendor/lawnchair/priv-app/Lawnchair/lib/arm64/libnrb.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/Lawnchair/lib/arm64/libnrb.so
 
 PRODUCT_PACKAGES += \
-    QuickstepSwitcherOverlay \
-    Lawnchair
+    LawnchairPrebuilt \
+    QuickstepSwitcherOverlay
